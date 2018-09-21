@@ -20,10 +20,11 @@ public class SwinViewImplementation implements View{
         
        String mensaje = greeting;
     //ventana de informacion
+    //comentario de prueba
     JOptionPane.showMessageDialog(null, greeting, "Mensaje de información", JOptionPane.INFORMATION_MESSAGE);
     
        
          
-     }
+  }
     
 }

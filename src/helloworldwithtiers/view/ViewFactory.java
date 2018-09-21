@@ -14,7 +14,9 @@ public class ViewFactory {
    public static View getView (){
    
    //return new ViewImplementation();
-   return new SwinViewImplementation();
+   //return new SwinViewImplementation();
+   return new JavaFxViewImplementation();
+  
        
    }
     
